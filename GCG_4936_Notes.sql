@@ -1,0 +1,3 @@
+CREATE TABLE "GCG_4936_Notes" (
+ "JSS" CHAR(15),
+ "Notes" LONGVARCHAR );
